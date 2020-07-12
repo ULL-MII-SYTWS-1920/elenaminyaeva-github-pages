@@ -1,3 +1,5 @@
+baseurl: https://ull-mii-sytws-1920.github.io/elenaminyaeva-github-pages/
+
 collections:
   authors:
     output: true
