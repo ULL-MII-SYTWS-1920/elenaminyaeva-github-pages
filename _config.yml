@@ -1,4 +1,5 @@
-baseurl: https://ull-mii-sytws-1920.github.io/elenaminyaeva-github-pages/
+baseurl: "/elenaminyaeva-github-pages"
+url: "https://ull-mii-sytws-1920.github.io/"
 
 collections:
   authors:
