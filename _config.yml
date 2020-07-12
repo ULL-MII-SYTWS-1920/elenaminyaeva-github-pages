@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6f820066bdc10a000ae850ff6e338680131b2862
+name: Elena Miniaeva
+description: Jekyll Tutorial
+
 collections:
   authors:
     output: true
